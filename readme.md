@@ -9,8 +9,13 @@
 
 <div align="left">
 
-####  :floppy_disk: 응용프로그램 문제
+###  :floppy_disk: 응용프로그램 문제 
+<a href=""><img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?&logo=microsoftoffice&&logoColor=white"/></a> <br/><br/>
+<a href=""><img src="https://img.shields.io/badge/한컴오피스-00B4FF?&logo=gnometerminal&&logoColor=white"/></a> <br/><br/>
+<a href=""><img src="https://img.shields.io/badge/기타%20응용프로그램%20문제-4D4D4D?&logo=windowsterminal&&logoColor=white"/></a> <br/><br/>
 
-####  :computer: PC문제
-
+###  :computer: PC문제
+<a href=""><img src="https://img.shields.io/badge/본체%20관련-556DB3?&logo=pcgamingwiki&&logoColor=white"/></a> <br/><br/>
+<a href=""><img src="https://img.shields.io/badge/하드웨어%20관련-DC382D?&logo=redis&&logoColor=white"/></a> <br/><br/>
+<a href=""><img src="https://img.shields.io/badge/소프트웨어%20관련-FC6E6B?&logo=dask&&logoColor=white"/></a> <br/><br/>
 </div>
