@@ -11,7 +11,7 @@
 
 ###  :floppy_disk: 응용프로그램 문제 
 <a href=""><img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?&logo=microsoftoffice&&logoColor=white"/></a> <br/><br/>
-<a href=""><img src="https://img.shields.io/badge/한컴오피스-00B4FF?&logo=gnometerminal&&logoColor=white"/></a> <br/><br/>
+<a href="https://github.com/wnguswlals/wnguswlals/blob/main/%EC%9D%91%EC%9A%A9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/%ED%95%9C%EA%B8%80.md"><img src="https://img.shields.io/badge/한컴오피스-00B4FF?&logo=gnometerminal&&logoColor=white"/></a> <br/><br/>
 <a href=""><img src="https://img.shields.io/badge/기타%20응용프로그램%20문제-4D4D4D?&logo=windowsterminal&&logoColor=white"/></a> <br/><br/>
 
 ###  :computer: PC문제
